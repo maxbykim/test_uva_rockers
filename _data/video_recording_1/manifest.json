@@ -18,7 +18,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://archive.org/details/rockers-documentary-tokyo-1979-rockers-gjtscmx-3-74",
+                  "id": "https://iiif.archive.org/iiif/3/rockers-documentary-tokyo-1979-rockers-gjtscmx-3-74/manifest.json",
                     "duration": 1320.0
                 },
                 "target": "https://maxbykim.github.io/test_uva_rockers/video_recording_1/canvas-1/canvas"
